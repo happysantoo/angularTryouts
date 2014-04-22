@@ -1,0 +1,13 @@
+README
+
+tryout ng scaffold here
+
+
+sudo npm instal -g generator-ng-scaffold
+
+yo ng-scaffold   -- to create a project. Answer the questions asked.
+
+
+yo ng-scaffold:module  -- to create a new angular module within the project
+
+yo ng-scaffold:service  - to create a service
